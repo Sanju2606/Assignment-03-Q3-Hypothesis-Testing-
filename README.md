@@ -2,7 +2,8 @@
 
 Chi2 contengency independence test
 
-image
+![image](https://github.com/user-attachments/assets/4c9a2dc8-893e-447e-8640-63da3ef9b146)
+
 
 Assume Null Hypothesis as Ho: Independence of categorical variables (male-female buyer rations are similar across regions (does not vary and are not related) Thus Alternate Hypothesis as Ha: Dependence of categorical variables (male-female buyer rations are NOT similar across regions (does vary and somewhat/significantly related)
 
